@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+.Container{
+    background-color: silver;
+    margin: 0px auto;
+    padding: 15px;
+}
+.row1{
+    background-color: skyblue;
+    min-height: 150px;
+    margin-bottom: 10px;
+}
+.row2{
+    background-color: pink;
+    min-height: 150px;
+    margin-bottom: 10px;
+}
+.subcontent{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.row3{
+    background-color: white;
+    min-height: 150px;
+}
+p{
+    text-align: center;
+}
+.Container div{
+    display: flex;
+    justify-content:space-around; 
+    align-items: center;
+}
